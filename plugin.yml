@@ -1,0 +1,9 @@
+name: SimpleDuel
+author: Maiths
+version: 0.1
+main:  fr.maiths.dueltfh.Main
+
+commands:
+  duel:
+    description: Run this commande to ask somone in duel
+    
